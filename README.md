@@ -8,8 +8,8 @@ Request to use the location       |   Showing the user current weather in his re
 :--------------------------------:|:------------------------------------------------:
 ![IMG_1445](https://user-images.githubusercontent.com/121186235/236451904-0f7d0727-6565-4040-8c8e-9290f01d2383.PNG)   |   ![IMG_1446](https://user-images.githubusercontent.com/121186235/236452074-948ce67f-d3fd-4cb5-90ae-68a076f03302.PNG)
 
-Also the user can type the name of the city and it displays the weather in the mentioned region.
+Also, the user can type the name of the city and it displays the weather in the mentioned region.
 
-![IMG_1447](https://user-images.githubusercontent.com/121186235/236452214-7dd507b3-0a41-42c3-9c3c-351e76a99f6d.PNG)
+![IMG_1447](https://user-images.githubusercontent.com/121186235/236452214-7dd507b3-0a41-42c3-9c3c-351e76a99f6d.PNG | width=100)
 
 In addition the design of the app changes according to the theme selected on iPhone (dark and white)
